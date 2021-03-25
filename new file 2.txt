@@ -1,0 +1,3 @@
+this is the second new file
+hi 
+how are you
